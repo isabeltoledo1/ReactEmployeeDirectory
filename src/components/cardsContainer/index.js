@@ -1,7 +1,7 @@
 import React from "react";
 import CardBody from "../cards";
 
-import "./style.css";
+import "./styles.css";
 
 function CardContainer() {
   return (

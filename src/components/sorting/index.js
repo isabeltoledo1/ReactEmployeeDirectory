@@ -1,5 +1,5 @@
 import React, { useContext } from "react";
-import CardBody from "../card";
+import CardBody from "../cards";
 import UserContext from "../../utils/user";
 
 

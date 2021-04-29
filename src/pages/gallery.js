@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import API from "../utils/api";
-import CardContainer from "../components/cardContainer";
+import CardContainer from "../components/cardsContainer";
 import UserContext from "../utils/user";
 import SearchBar from "../components/search";
 import SortTable from "../components/sorting";
