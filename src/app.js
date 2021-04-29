@@ -1,4 +1,7 @@
 import React from "react";
+import Gallery from "./pages/gallery";
+import Wrapper from "./components/wrapper";
+import Header from "./components/header";
 
 
 
