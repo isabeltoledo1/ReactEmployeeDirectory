@@ -19,7 +19,7 @@ an employee directory using React and Random User API to generate a list of  emp
   
 
 ### Video Walkthrough
-![](assets/gif.gif)
+![](imgs/gif.gif)
 
   
 ### Deployed Link
@@ -31,7 +31,6 @@ https://isabeltoledo1.github.io/ReactEmployeeDirectory/
 ```
 npm i 
 ```
-### Instructions
 
 ### Technologies Used:
  - HTML
