@@ -14,7 +14,7 @@
 
 ### Description
 
-
+an employee directory using React and Random User API to generate a list of  employees.   When the user loads the page, a table of employees will render.  This app will allow the user to search for an employee or to sort the employees by category. 
 
   
 
@@ -24,11 +24,12 @@
   
 ### Deployed Link
 
+https://isabeltoledo1.github.io/ReactEmployeeDirectory/
 
 
 ### Installation
 ```
-No installation needed. 
+npm i 
 ```
 ### Instructions
 
